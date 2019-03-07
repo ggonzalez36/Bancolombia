@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ibmCrud
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: kostolom
+Implementation-Vendor-Id: com.ibm.crud
+Build-Jdk: 1.8.0_111
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/ibmCrud
+Created-By: Maven Integration for Eclipse
+
